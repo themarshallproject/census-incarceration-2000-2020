@@ -1,4 +1,4 @@
-# incarceration-census
+# Adults in Correctional Facilities, From Decennial Census (2000 to 2020)
 
 The Marshall Project extracted the number of adults in correctional facilitates from the [2000](https://www.census.gov/data/developers/data-sets/decennial-census.2000.html), [2010](https://www.census.gov/data/developers/data-sets/decennial-census.2010.html) and [2020](https://www.census.gov/data/developers/data-sets/decennial-census.2020.html) Decennial Census. The county-level data is used for the story [There Are Fewer People Behind Bars Now Than 10 Years Ago. Will It Last?](https://www.themarshallproject.org/2021/09/20/there-are-fewer-people-behind-bars-now-than-10-years-ago-will-it-last) by Weihua Li, David Eads and Jamiles Lartey. 
 
